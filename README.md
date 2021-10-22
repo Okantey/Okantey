@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Okantey
-- 👀 I’m interested in pretty much anaything
+- 👀 I’m interested in pretty much anything involving code
 - 🌱 I’m currently learning python, react and sql
 - 💞️ I’m looking to collaborate on developing android apps using react native
 - 📫 How to reach me : gideonnunoo19@gmail.com or +233204698626
