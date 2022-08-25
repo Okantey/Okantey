@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okantey
-- 👀 I’m interested in developing android apps
-- 🌱 I’m currently learning python, flutter and sql
-- 💞️ I’m looking to collaborate on developing android apps
+- 👀 I’m interested in developing web apps!!
+- 🌱 I’m currently learning javascript and ruby
+- 💞️ I’m looking to collaborate on developing high performance web applications
 - 📫 You can reach me on gideonnunoo19@gmail.com or +233204698626
 
 <!---
