@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
 </p>
 
-## **I've got everything to do with writing codes😍**
+## **Just do it!😍**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Okantey&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okantey&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Okantey&theme=github_dark)
