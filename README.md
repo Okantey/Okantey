@@ -30,7 +30,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okantey&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Okantey&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Okantey&theme=github_dark)
-[![Okantey's stats](https://github-readme-stats.vercel.app/api?username=Okantey&show_icons=true&count_private=true&theme=github_dark)](https://github.com/Okantey)
+
 
  
 [![Okantey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Okantey&bg_color=000000&color=7e4c9e&line=754c9e&point=3f3e41&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
