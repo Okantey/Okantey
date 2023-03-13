@@ -26,5 +26,5 @@
 </p>
 
 ## **Just do it!😍**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Okantey&theme=nord&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Okantey&theme=react&hide_border=true)](https://git.io/streak-stats)
 
