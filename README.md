@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Ruby on Rails and advanced JavaScript concepts, mastering my frontend skills as well.
 - 🌱 I’m  working on frontend projects.
 - 📫 How to reach me: Email @nunoogideon19@gmail.com
-- 🌌 Skilled in - Frontend Web Development
+- 🌌 Skilled in - Frontend Web and Mobile Development
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
