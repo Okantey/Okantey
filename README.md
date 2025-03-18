@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-okantey.vercel.app/](https://my-portfolio-okantey.vercel.app/)
+- 👨‍💻 All of my projects are available at ...
 
 - 💬 Ask me about **javascript,typescript, react, node, express**
 
