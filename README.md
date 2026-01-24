@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javascript,typescript, react, node, express**
 
-- 📫 How to reach me **nunoogideon19@gmail.com**
+- 📫 How to reach me **devokant@gmail.com**
 
 
 ## 🌐 Socials:
